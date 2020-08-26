@@ -1,0 +1,1 @@
+twitter.com#?#article:-abp-has(article > div > div > div > div > div > span:-abp-contains(プロモーション))
